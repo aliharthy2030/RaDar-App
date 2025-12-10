@@ -1,0 +1,8 @@
+{
+  "name": "رادار",
+  "description": "National logistics platform for managing freight, compliance, and supply chain tracking in Saudi Arabia.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
